@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053968925919",
+    "project_id": "examen-ordinario-f9b84",
+    "storage_bucket": "examen-ordinario-f9b84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053968925919:android:b2df1da522c33f686dd56a",
+        "android_client_info": {
+          "package_name": "com.example.aplicaion_ordinario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053968925919-5n17olaol0htm1v05up61vb5a523qu59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVqRXCunD5uoILUEI65W8crJOvwa-90dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053968925919-5n17olaol0htm1v05up61vb5a523qu59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
